@@ -1,4 +1,4 @@
-// Hunter Schnaare
+// H
 // 5/24/22
 // It's NOT cookie clicker, It's Deegan Clicker.
 
