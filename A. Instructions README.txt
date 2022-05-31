@@ -1,0 +1,7 @@
+1: Extract DeeganClicker.zip.
+2: Put "DeeganClickerLibs" into the documents folder on your PC
+3: Put the deegan png on your desktop
+4: Put the Video.wav on your desktop
+5: Keep AudioPlayer.java and DeeganClicker.java in the same folder
+6: Run DeeganClicker in JGrasp (Only tested java compiler, others should work tho)
+7: Get Deegans.
